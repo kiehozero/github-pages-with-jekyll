@@ -4,6 +4,7 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   A blog all about mid-tempo Exodus riffs.
 theme: minima
+layout: home
 
 # social links
 twitter_username: topes_lose # DO NOT include the @ character, or else the build will fail!
